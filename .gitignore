@@ -153,3 +153,6 @@ Temporary Items
 
 .gitignore
 .idea/
+
+Netbeans
+nbproject/
